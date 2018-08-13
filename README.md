@@ -1,6 +1,8 @@
+This plugin customized for A Song of Ice and Fire house system. 
+
 # Discourse National Flags Plugin
 
-Allows a user-defined National Flag image to be displayed in posts
+Allows a user-defined National Flag image to be displayed in posts.
 
 ## Example
 ![](example.PNG)

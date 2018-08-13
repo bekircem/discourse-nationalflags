@@ -27,6 +27,8 @@ function initializeNationalFlags(api, siteSettings) {
     return dec.h('img', {
       className: "nationalflag-post",
       attributes: {
+/* Add title attribute to img tag */
+        title: result,
         src: "/plugins/discourse-nationalflags/images/nationalflags/" + result + ".png"
       }
     });
