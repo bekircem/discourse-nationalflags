@@ -31,6 +31,18 @@ export default {
     }, {
       "name": "Tyrell",
       "value": "Tyrell.png"
+    }, {
+      "name": "Blackfyre",
+      "value": "Blackfyre.png"
+    }, {
+      "name": "Clegane",
+      "value": "Clegane.png"
+    }, {
+      "name": "Dayne",
+      "value": "Dayne.png"
+    }, {
+      "name": "Ejderha Kayasının Baratheon",
+      "value": "Ejderha_Kayasinin_Baratheon.png"
     }
   ]
 
