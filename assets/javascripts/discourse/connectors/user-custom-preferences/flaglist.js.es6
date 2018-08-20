@@ -40,9 +40,6 @@ export default {
     }, {
       "name": "Dayne",
       "value": "Dayne.png"
-    }, {
-      "name": "Ejderha Kayasının Baratheon",
-      "value": "StannisBaratheon.png"
     }
   ]
 
