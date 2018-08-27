@@ -9,8 +9,7 @@ export default {
       "value": "Arryn.png"
     }, {
       "name": "Baratheon",
-      "value": "Baratheon.png",
-      "url": "asas"
+      "value": "Baratheon.png"
     }, {
       "name": "Greyjoy",
       "value": "Greyjoy.png"
