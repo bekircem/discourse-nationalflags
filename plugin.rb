@@ -22,6 +22,8 @@ after_initialize do
   end
 
   User.register_custom_field_type('nationalflag_iso', :text)
+  
+  register_editable_user_custom_field :nationalflag_iso if defined? register_editable_user_custom_field
 
   if SiteSetting.nationalflag_enabled then
     add_to_serializer(:post, :user_signature, false) {
